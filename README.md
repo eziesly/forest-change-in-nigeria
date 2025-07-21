@@ -244,6 +244,7 @@ Global Forest Watch <https://www.globalforestwatch.org/dashboards/country/NGA/>
 Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R. and Kommareddy, A., 2013. High-resolution global maps of 21st-century forest cover change. science, 342(6160), pp.850-853.
 
 ---
+
 **Project Files**
 * `README.md` - Project overview and documentation
 * `NGA.xlsx` - Excel file from Global Forest Watch containing original data
@@ -252,6 +253,7 @@ Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina
 * `state_forests_dashboard.png` - Dashboard 2: State level breakdown of forest loss and gain
 * `environmental_impact_dasboard.png` - Dashboard 3: State level breakdown of co₂ emission and removal
 * `state_&_lga_co₂_impact.png` - Dashboard 4: LGA level observation of co₂ emission and removal
+
 ---
 
 ### ✍️ Author
